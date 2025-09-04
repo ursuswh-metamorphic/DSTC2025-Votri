@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ## 5. Dữ liệu
 Có 2 cách để lấy dữ liệu phục vụ phân tích:
 1. **Dùng sẵn:** `DSTC_3year.csv`  -> file dữ lieu đã fetch sẵn bằng thư viện fiinquantx
-2. **Tự crawl:** chạy script `Fetch_VNINDEX30.py`
+2. **Tự crawl:** chạy script `Fetch_VN30.py`
 
 ---
 
